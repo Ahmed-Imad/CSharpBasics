@@ -15,6 +15,7 @@ do
     }
     else
     {
+        Console.WriteLine();
         Console.Write("What's your last name: ");
         lastName = Console.ReadLine();
     }
