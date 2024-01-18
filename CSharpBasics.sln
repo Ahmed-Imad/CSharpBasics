@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstantiatedClassesDemo", "InstantiatedClassesDemo\InstantiatedClassesDemo.csproj", "{A22B4486-FC08-47FB-9D13-6DE8749B078B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyTypesDemo", "PropertyTypesDemo\PropertyTypesDemo.csproj", "{33FE022D-FABD-418B-B151-1DB1D7EB71DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyTypesDemo", "PropertyTypesDemo\PropertyTypesDemo.csproj", "{33FE022D-FABD-418B-B151-1DB1D7EB71DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceDemo", "InheritanceDemo\InheritanceDemo.csproj", "{405BA1B0-9A7C-40E3-9861-9026D62AF1E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{33FE022D-FABD-418B-B151-1DB1D7EB71DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33FE022D-FABD-418B-B151-1DB1D7EB71DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33FE022D-FABD-418B-B151-1DB1D7EB71DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405BA1B0-9A7C-40E3-9861-9026D62AF1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405BA1B0-9A7C-40E3-9861-9026D62AF1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405BA1B0-9A7C-40E3-9861-9026D62AF1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405BA1B0-9A7C-40E3-9861-9026D62AF1E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
